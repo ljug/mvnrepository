@@ -138,9 +138,9 @@
                     </includes>
                     <merge>true</merge>
                     <!-- don't delete old artifacts -->
-                    <repositoryName>mvnrepository</repositoryName>
+                    <repositoryName>tachesEtDonees</repositoryName>
                     <!-- github repo name -->
-                    <repositoryOwner>ljug</repositoryOwner>
+                    <repositoryOwner>pascalfares</repositoryOwner>
                     <!-- github username  -->
                 </configuration>
                 <executions>
